@@ -1,0 +1,11 @@
+{
+
+    "username":"idrees2020@namal.edu.pk",
+    "password":"@#$%namal123",
+    "name":"Idrees",
+    "hobies":["learning","Gym"],
+    "address":{
+        "country":"Pakistan",
+        "city":"Mianwali"
+    }
+}
